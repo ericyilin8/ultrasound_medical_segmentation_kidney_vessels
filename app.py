@@ -39,7 +39,7 @@ def load_model(checkpoint_path):
 def load_model2(checkpoint_path):
 
   model = smp.Unet(
-     v       
+     encoder_name="tu-convnext_large",    
       encoder_weights=None,    
       in_channels=1,                
       classes=1,                    
