@@ -1,4 +1,4 @@
-For now, you can go to https://huggingface.co/elin8/kidney_unet6/tree/main and download kidney_unet6.pt  and
+For now, you can go to https://huggingface.co/elin8/kidney_unet6/tree/main and
 https://huggingface.co/elin8/vessels/tree/main
 for the model weights, which I trained with the help of Google Colab.
 
