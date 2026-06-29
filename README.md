@@ -3,7 +3,7 @@ https://huggingface.co/elin8/vessels/tree/main
 for the model weights, which I trained with the help of Google Colab.
 
 
-Green is kidney and yellow is kidney in the actual. Both are red for vessels.
+Green is kidney in the app and yellow is kidney in the actual. Both are red for vessels.
 
 <img width="1543" height="613" alt="image" src="https://github.com/user-attachments/assets/9df59b22-1069-4020-b1e2-902e0e1cc8e6" />
 
