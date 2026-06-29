@@ -1,4 +1,7 @@
-For now, you can go to https://huggingface.co/elin8/kidney_unet6/tree/main and download kidney_unet6.pt for the model weights.
+For now, you can go to https://huggingface.co/elin8/kidney_unet6/tree/main and download kidney_unet6.pt  and
+https://huggingface.co/elin8/vessels/tree/main
+for the model weights, which I trained with the help of Google Colab.
+
 
 Green is kidney and yellow is kidney in the actual. Both are red for vessels.
 
